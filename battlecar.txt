@@ -1,0 +1,4 @@
+{
+  gameversion: "1.0.0",
+  patchurl: "www.baidu.com"
+}
