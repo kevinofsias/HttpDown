@@ -1,4 +1,4 @@
 {
-  gameversion: "1.0.1",
-  patchurl: "https://raw.githubusercontent.com/kevinofsias/HttpDown/main/Patch/"
+	"gameversion": "1.0.1",
+	"patchurl": "https://raw.githubusercontent.com/kevinofsias/HttpDown/main/Patch/"
 }
