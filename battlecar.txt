@@ -2,5 +2,5 @@
 	"gameversion":"1.0.1",
 	"filename":"1.0.1_WindowsNoEditor_001_P.pak"
 	"patchurl":"https://raw.githubusercontent.com/kevinofsias/HttpDown/main/Patch/",
-	"md5":"142ac56c817d7b28db06175395f511ae"
+	"md5":"b64637d1076a0832c71606740d25c296"
 }
