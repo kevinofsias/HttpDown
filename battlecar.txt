@@ -1,5 +1,5 @@
 {
 	"gameversion": "1.0.1",
 	"patchurl": "https://raw.githubusercontent.com/kevinofsias/HttpDown/main/Patch/",
-	"patchsize":190714
+	"md5":889D29F0D68C8BAB9EBF2C7426F3613A
 }
